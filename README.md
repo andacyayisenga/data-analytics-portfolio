@@ -1,2 +1,8 @@
 # data-analytics-portfolio
-I will store projects from my online classes
+This repository contains projects and visualizations created from the Data Science & Analytics program with CSULB
+
+## SQL 
+
+## Statistics
+
+## Visual Communications 
